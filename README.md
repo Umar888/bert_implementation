@@ -11,3 +11,5 @@ Extending the work => 3
 
 Each class has been assigned a numerical number
 You can see "Follow-up" in dataset in my output column
+I am taking "Tagged Sentences" as input sentence in BERT model
+Now I want to add more features in my dataset and include those feautres in BERT model
